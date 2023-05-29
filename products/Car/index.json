@@ -14,8 +14,8 @@
         },
         "candidateMeshes": [
           {
-            "id": "body_final",
-            "label": "1"
+            "id": "Carbody",
+            "label": "Car Body"
           }
         ],
         "candidateMaterials": [
