@@ -5,17 +5,17 @@
     "model": "products/Car/Car.glb",
     "nodes": [
       {
-        "id": "Carbody",
-        "label": "Carbody",
-        "defaultMesh": "Carbody",
+        "id": "body_final",
+        "label": "body_final",
+        "defaultMesh": "body_final",
         "defaultMaterial": {
           "name": "Gold old",
           "path": "/materials/0001/index.json"
         },
         "candidateMeshes": [
           {
-            "id": "Carbody",
-            "label": "Carbody"
+            "id": "body_final",
+            "label": "body_final"
           }
         ],
         "candidateMaterials": [
