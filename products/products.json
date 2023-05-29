@@ -17,6 +17,11 @@
   {
     "id": "#product_4",
     "label": "Chair 2",
-"path": "/products/0002/index.json"
+    "path": "/products/0002/index.json"
+  },
+  {
+    "id": "#product_1",
+    "label": "Car",
+    "path": "/products/Car/index.json"
   }
 ]
