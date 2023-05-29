@@ -36,6 +36,9 @@
             ]
         }
     ],
+    "description": "Car description",
+    "envMap": "/envmaps/room1.hdr",
+    "model": "products/car2/car.gltf",
     "nodes" : [
         {
             "mesh" : 0,
