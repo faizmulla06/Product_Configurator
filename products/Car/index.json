@@ -6,7 +6,7 @@
     "nodes": [
       {
         "id": "Carbody",
-        "label": "Car Body",
+        "label": "CarBody",
         "defaultMesh": "1",
         "defaultMaterial": {
           "name": "Gold old",
@@ -15,7 +15,7 @@
         "candidateMeshes": [
           {
             "id": "Carbody",
-            "label": "Car Body"
+            "label": "CarBody"
           }
         ],
         "candidateMaterials": [
