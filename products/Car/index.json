@@ -6,8 +6,8 @@
     "nodes": [
       {
         "id": "Carbody",
-        "label": "CarBody",
-        "defaultMesh": "1",
+        "label": "Carbody",
+        "defaultMesh": "Carbody",
         "defaultMaterial": {
           "name": "Gold old",
           "path": "/materials/0001/index.json"
@@ -15,7 +15,7 @@
         "candidateMeshes": [
           {
             "id": "Carbody",
-            "label": "CarBody"
+            "label": "Carbody"
           }
         ],
         "candidateMaterials": [
