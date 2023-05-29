@@ -13,5 +13,10 @@
     "id": "#product_1",
     "label": "Table",
     "path": "/products/0000/index.json"
+  },
+  {
+    "id": "#product_4",
+    "label": "Chair 2",
+"path": "/products/0002/index.json"
   }
 ]
