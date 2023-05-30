@@ -239,12 +239,12 @@
         ]
       },
       {
-        "id": "Circle.002",
+        "id": "Car_Tyres",
         "label": "Car Tyres",
-        "defaultMesh": "Circle.002",
+        "defaultMesh": "Car_Tyres",
         "candidateMeshes": [
           {
-            "id": "Circle.002",
+            "id": "Car_Tyres",
             "label": "Car Tyres"
           }
         ],
