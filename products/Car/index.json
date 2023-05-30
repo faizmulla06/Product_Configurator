@@ -66,10 +66,7 @@
         "id": "Car_Bumper",
         "label": "Car Bumper",
         "defaultMesh": "Car_Bumper",
-        "defaultMaterial": {
-          "name": "Gold old",
-          "path": "/materials/0001/index.json"
-        },
+         
         "candidateMeshes": [
           {
             "id": "Car_Bumper",
@@ -128,10 +125,6 @@
         "id": "Car_Tyres",
         "label": "Car Tyres",
         "defaultMesh": "Car_Tyres",
-        "defaultMaterial": {
-          "name": "Gold old",
-          "path": "/materials/0001/index.json"
-        },
         "candidateMeshes": [
           {
             "id": "Car_Tyres",
@@ -190,10 +183,6 @@
         "id": "Car_Glass",
         "label": "Car Glass",
         "defaultMesh": "Car_Glass",
-        "defaultMaterial": {
-          "name": "Gold old",
-          "path": "/materials/0001/index.json"
-        },
         "candidateMeshes": [
           {
             "id": "Car_Glass",
@@ -252,10 +241,7 @@
         "id": "Car_Interior",
         "label": "Car Interior",
         "defaultMesh": "Car_Interior",
-        "defaultMaterial": {
-          "name": "Gold old",
-          "path": "/materials/0001/index.json"
-        },
+         
         "candidateMeshes": [
           {
             "id": "Car_Interior",
