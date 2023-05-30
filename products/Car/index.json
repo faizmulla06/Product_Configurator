@@ -129,17 +129,17 @@
         ]
       },
       {
-        "id": "Car_Tyre",
-        "label": "Car Tyre",
-        "defaultMesh": "Car_Tyre",
+        "id": "Car_Tyres",
+        "label": "Car Tyres",
+        "defaultMesh": "Car_Tyres",
         "defaultMaterial": {
           "name": "Gold old",
           "path": "/materials/0001/index.json"
         },
         "candidateMeshes": [
           {
-            "id": "Car_Tyre",
-            "label": "Car Tyre"
+            "id": "Car_Tyres",
+            "label": "Car Tyres"
           }
         ],
         "candidateMaterials": [
