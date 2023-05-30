@@ -8,10 +8,6 @@
         "id": "body_final",
         "label": "Car Body",
         "defaultMesh": "body_final",
-        "defaultMaterial": {
-          "name": "Gold old",
-          "path": "/materials/0001/index.json"
-        },
         "candidateMeshes": [
           {
             "id": "body_final",
