@@ -2,7 +2,7 @@
     "name": "Car",
     "description": "Car description",
     "envMap": "/envmaps/room1.hdr",
-    "model": "products/Car/car_Updated.glb",
+    "model": "products/Car/Car_New.glb",
     "nodes": [
       {
         "id": "body_final",
