@@ -23,10 +23,5 @@
     "id": "#product_50",
     "label": "Car",
     "path": "/products/Car/index.json"
-  },
-  {
-    "id": "#product_20",
-    "label": "Car 2",
-    "path": "products/car2/car.json"
   }
 ]
