@@ -1,26 +1,31 @@
 [
   {
-    "id": "#product_3",
+    "id": "#product_1",
     "label": "Chair",
     "path": "/products/0003/index.json"
   },
   {
-    "id": "#product_66",
+    "id": "#product_2",
     "label": "Hoodie",
     "path": "/products/hoodie/index.json"
   },
   {
-    "id": "#product_1",
+    "id": "#product_3",
     "label": "Table",
     "path": "/products/0000/index.json"
   },
   {
     "id": "#product_4",
+    "label": "Table 2",
+    "path": "/products/0004/index.json"
+  },
+  {
+    "id": "#product_5",
     "label": "Chair 2",
     "path": "/products/0002/index.json"
   },
   {
-    "id": "#product_50",
+    "id": "#product_6",
     "label": "Car",
     "path": "/products/Car/index.json"
   }
